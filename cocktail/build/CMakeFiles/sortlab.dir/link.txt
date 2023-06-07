@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sortlab.dir/src/graphic.cpp.o CMakeFiles/sortlab.dir/src/main.cpp.o  -o sortlab  /usr/lib/x86_64-linux-gnu/libSDL2main.a /usr/lib/x86_64-linux-gnu/libSDL2.so -lpthread 

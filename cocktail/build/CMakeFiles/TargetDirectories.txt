@@ -1,0 +1,3 @@
+/home/bot/algorithms/cocktail/build/CMakeFiles/rebuild_cache.dir
+/home/bot/algorithms/cocktail/build/CMakeFiles/edit_cache.dir
+/home/bot/algorithms/cocktail/build/CMakeFiles/sortlab.dir

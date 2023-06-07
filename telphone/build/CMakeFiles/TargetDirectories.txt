@@ -1,0 +1,3 @@
+/home/bot/algorithms/telphone/build/CMakeFiles/rebuild_cache.dir
+/home/bot/algorithms/telphone/build/CMakeFiles/edit_cache.dir
+/home/bot/algorithms/telphone/build/CMakeFiles/sortlab.dir

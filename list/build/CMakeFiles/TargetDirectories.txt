@@ -1,0 +1,3 @@
+/home/bot/algorithms/list/build/CMakeFiles/rebuild_cache.dir
+/home/bot/algorithms/list/build/CMakeFiles/edit_cache.dir
+/home/bot/algorithms/list/build/CMakeFiles/sortlab.dir

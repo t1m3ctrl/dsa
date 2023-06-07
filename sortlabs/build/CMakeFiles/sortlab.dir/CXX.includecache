@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bot/algorithms/sortlabs/include/graphic.h
+SDL2/SDL.h
+-
+
+/home/bot/algorithms/sortlabs/src/main.cpp
+iostream
+-
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+cmath
+-
+../include/graphic.h
+/home/bot/algorithms/sortlabs/include/graphic.h
+

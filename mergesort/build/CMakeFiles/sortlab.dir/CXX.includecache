@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bot/algorithms/mergesort/include/graphic.h
+SDL2/SDL.h
+-
+
+/home/bot/algorithms/mergesort/src/main.cpp
+iostream
+-
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+string
+-
+cmath
+-
+iomanip
+-
+../include/graphic.h
+/home/bot/algorithms/mergesort/include/graphic.h
+

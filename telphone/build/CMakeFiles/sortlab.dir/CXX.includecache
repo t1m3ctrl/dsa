@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bot/algorithms/telphone/include/graphic.h
+SDL2/SDL.h
+-
+
+/home/bot/algorithms/telphone/src/graphic.cpp
+../include/graphic.h
+/home/bot/algorithms/telphone/include/graphic.h
+algorithm
+-
+
+/home/bot/algorithms/telphone/src/main.cpp
+iostream
+-
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+string
+-
+cmath
+-
+iomanip
+-
+../include/graphic.h
+/home/bot/algorithms/telphone/include/graphic.h
+
