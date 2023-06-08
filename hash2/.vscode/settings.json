@@ -3,5 +3,6 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "iomanip": "cpp"
-    }
+    },
+    "C_Cpp.default.compilerPath": "d:\\mingw64\\bin\\g++.exe"
 }
